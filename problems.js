@@ -131,6 +131,10 @@ function whisper(str) {
   return str.toLowerCase();
 }
 
+function alternatingLetters(str) {
+  return str.toLowerCase();
+  return str.toUpperCase();
+}
 module.exports = {
   plusTen,
   returnSevens,
